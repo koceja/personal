@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #f0f0f0 !important;
+}
+
+.header {
+    background-color: #f0f0f0 !important;
+}
+
+.content {
+    background-color: #f0f0f0;
+    min-height: calc(100vh - 64px) !important;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
